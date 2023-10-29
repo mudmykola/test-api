@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "T-shirt With Tape Details",
+      "rating": 4.5,
+      "price": "120",
+      "image": "/images/arrivals-img-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Skinny Fit Jeans",
+      "rating": 3.5,
+      "price": "240",
+      "noDiscount": "$260",
+      "discount": "-20%",
+      "image": "/images/arrivals-img-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Checkered Shirt",
+      "rating": 4.5,
+      "price": "180",
+      "image": "/images/arrivals-img-3.png"
+    },
+    {
+      "id": 4,
+      "title": "Sleeve Striped T-shirt",
+      "rating": 4.5,
+      "price": "130",
+      "noDiscount": "$160",
+      "discount": "-30%",
+      "image": "/images/arrivals-img-4.png"
+    },
+    {
+      "id": 5,
+      "title": "Sleeve Striped T-shirt",
+      "rating": 4.5,
+      "price": "130",
+      "discount": "-5%",
+      "image": "/images/arrivals-img-4.png"
+    }
+  ]
+  
