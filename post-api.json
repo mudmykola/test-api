@@ -3,14 +3,14 @@
         "id": 1,
         "title": "ContentStudio",
         "content": "ContentStudio is a powerful content marketing and social media management platform for publishers, brands, agencies and, startups who want to share the best content consistently and increase their reach.It provides you with al the tools you need to centralize your content marketing operations for all the channels including blogs, social networks and newsletters. No more lack of data, email threads, spreadsheets, approval delays and disconnected workflows.ContentStudio is built with Vue.js!",
-        "image": "1.png",
+        "image": "https://github.com/mudmykola/test-api/tree/53c6f59af97efd3833319a3818b89632535b11e4/image/1.png",
         "tag": "Vue"
     },
     {
         "id": 2,
         "title": "Заголовок 2",
         "content": "Тут текст контенту другого елементу",
-        "image": "mudmykola/test-api/1.png",
+        "image": "https://github.com/mudmykola/test-api/tree/53c6f59af97efd3833319a3818b89632535b11e4/image/1.png",
         "tag": "Тег2"
     }
 ]
