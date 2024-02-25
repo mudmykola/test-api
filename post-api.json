@@ -19,5 +19,5 @@
         "content": "Vue Reading Mode provides an alternative reading experience for articles and blogs. It removes all interface elements that will distract while reading and focuses only on the text.  It offers options for dark/light mode, sans serif/serif fonts, as well as font size and line height settings",
         "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/3.jpg",
         "tag": "Blogging"
-    },
+    }
 ]
