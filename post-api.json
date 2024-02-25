@@ -3,14 +3,14 @@
         "id": 1,
         "title": "Заголовок 1",
         "content": "Тут текст контенту першого елементу",
-        "image": "/image/img1.png",
+        "image": "test-api/image/img1.png",
         "tag": "Тег1"
     },
     {
         "id": 2,
         "title": "Заголовок 2",
         "content": "Тут текст контенту другого елементу",
-        "image": "/image/maxresdefaultf.jpg",
+        "image": "test-api/image/maxresdefaultf.jpg",
         "tag": "Тег2"
     }
 ]
