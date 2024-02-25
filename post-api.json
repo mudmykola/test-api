@@ -10,7 +10,7 @@
         "id": 2,
         "title": "Заголовок 2",
         "content": "Тут текст контенту другого елементу",
-        "image": "test-api/image/maxresdefaultf.jpg",
+        "image": "1.png",
         "tag": "Тег2"
     }
 ]
