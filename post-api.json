@@ -10,14 +10,14 @@
         "id": 2,
         "title": "BlogHunch ",
         "content": "BlogHunch is a flexible no-code blogging platform that lets you build and manage your blog without worrying about servers, developers, branding, and SEO.  We are using NuxtJS / Vue 2 for the entire website frontend and the dashboard as well.",
-        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/2.jpg",
+        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/2.png",
         "tag": "Webapps"
     },
      {
         "id": 3,
         "title": "Vue Reading Mode",
         "content": "Vue Reading Mode provides an alternative reading experience for articles and blogs. It removes all interface elements that will distract while reading and focuses only on the text.  It offers options for dark/light mode, sans serif/serif fonts, as well as font size and line height settings",
-        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/3.jpg",
+        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/3.png",
         "tag": "Blogging"
     }
 ]
