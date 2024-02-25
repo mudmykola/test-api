@@ -10,7 +10,7 @@
         "id": 2,
         "title": "Заголовок 2",
         "content": "Тут текст контенту другого елементу",
-        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/1.png",
+        "image": "https://github.com/mudmykola/test-api/raw/53c6f59af97efd3833319a3818b89632535b11e4/image/img1.png",
         "tag": "Тег2"
     }
 ]
