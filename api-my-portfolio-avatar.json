@@ -1,7 +1,16 @@
-[
-  {
-    "id": 1,
-    "image": "/images/avatar-3.png",
-    "alt": "my-avatar"
-  }
-]
+{
+  "avatars": [
+    {
+      "id": 1,
+      "image": "/images/avatar-3.png",
+      "alt": "my-avatar"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Service 1",
+      "description": "Description of service 1"
+    }
+  ]
+}
