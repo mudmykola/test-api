@@ -6,6 +6,9 @@
       "alt": "my-avatar"
     }
   ],
+  "switching-sound": [
+{"id": 1, "audio": "/audio/rclick.mp3"}
+  ],
   "services": [
     {
       "id": 1,
