@@ -9,11 +9,36 @@
   "switching-sound": [
 {"id": 1, "audio": "https://github.com/mudmykola/test-api/blob/b371e37e6a94a52b7d7086c16f580ed30dc2d9a0/audio/rclick.mp3"}
   ],
-  "services": [
+  "clientImage": [
     {
       "id": 1,
-      "name": "Service 1",
-      "description": "Description of service 1"
+      "image": "/images/Frame 147.png",
+      "alt": "client-image"
+    },
+    {
+      "id": 2,
+      "image": "/images/Frame 148.png",
+      "alt": "client-image∞"
+    },
+    {
+      "id": 3,
+      "image": "/images/Frame 149.png",
+      "alt": "client-image"
+    },
+    {
+      "id": 4,
+      "image": "/images/Frame 150.png",
+      "alt": "client-image"
+    },
+    {
+      "id": 5,
+      "image": "/images/Frame 153.png",
+      "alt": "client-image"
+    },
+    {
+      "id": 6,
+      "image": "/images/Frame 152.png",
+      "alt": "client-image"
     }
   ]
 }
