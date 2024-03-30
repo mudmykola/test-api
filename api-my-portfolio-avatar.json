@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "images/avatar-3.png",
+    "image": "https://github.com/mudmykola/test-api/blob/b3ddef2b424ca3d1f3c49eafe7f46900f3adaf72/images/avatar-3.png",
     "alt": "my-avatar"
   }
 ]
