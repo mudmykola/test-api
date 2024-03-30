@@ -7,7 +7,7 @@
     }
   ],
   "switching-sound": [
-{"id": 1, "audio": "/audio/rclick.mp3"}
+{"id": 1, "audio": "https://github.com/mudmykola/test-api/blob/b371e37e6a94a52b7d7086c16f580ed30dc2d9a0/audio/rclick.mp3"}
   ],
   "services": [
     {
