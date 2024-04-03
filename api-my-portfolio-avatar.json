@@ -91,5 +91,12 @@
       "company": "SoftwareSphere Innovations",
       "photo": "/images/user-reviews/8.jpg"
   }
+  ],
+  "aboutAvatar": [
+    {
+      "id": 1,
+      "image": "/images/avatar-3.png",
+      "alt": "my-avatar"
+    }
   ]
 }
