@@ -120,7 +120,7 @@
       "photo": "/images/service-3.png"
     },
     {
-      "id": 1,
+      "id": 4,
      "title": "Integration with Backend",
       "desc": "During integration, developers establish connections between the SPA and backend APIs or services, allowing data exchange.",
       "photo": "/images/service-4.png"
