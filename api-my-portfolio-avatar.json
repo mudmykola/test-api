@@ -50,7 +50,7 @@
       "photo": "/images/user-reviews/1.jpg"
   },
   {
-      "text": "He works efficiently on projects, always keeps to the schedule, and collaborates productively with his colleagues. ",
+      "text": "He works efficiently on projects, always keeps to the schedule, and collaborates productively with his colleagues.",
       "author": "Michael Brown",
       "company": "CodeCrafters Ltd",
       "photo": "/images/user-reviews/2.jpg"
@@ -62,7 +62,7 @@
       "photo": "/images/user-reviews/3.jpg"
   },
   {
-      "text": "This is a developer you can rely on. He always meets the deadlines and ensures high quality of his work meets. ",
+      "text": "This is a developer you can rely on. He always meets the deadlines and ensures high quality of his work meets.",
       "author": "David Wilson",
       "company": "Digital Dynamics Corp",
       "photo": "/images/user-reviews/4.jpg"
@@ -96,7 +96,34 @@
     {
       "id": 1,
       "image": "/images/avatar-3.png",
-      "alt": "my-avatar"
+      "alt": "my-avatar-about"
+    }
+  ],
+  "servicesCard": [
+    {
+      "id": 1,
+     "title": "Web site development",
+      "desc": "Developing the client side of a web application, which is responsible for the visual interface and user experience. ",
+      "photo": "/images/service-1.png"
+    },
+
+    {
+      "id": 2,
+     "title": "SPA development",
+      "desc": "SPA development is usually used to create modern interactive web applications that provide a fast and smooth user experience.",
+      "photo": "/images/service-2.png"
+    },
+    {
+      "id": 3,
+     "title": "Testing and optimization",
+      "desc": "This includes various types of testing such as unit testing, integration testing, end-to-end testing, and usability testing. ",
+      "photo": "/images/service-3.png"
+    },
+    {
+      "id": 1,
+     "title": "Integration with Backend",
+      "desc": "During integration, developers establish connections between the SPA and backend APIs or services, allowing data exchange.",
+      "photo": "/images/service-4.png"
     }
   ]
 }
