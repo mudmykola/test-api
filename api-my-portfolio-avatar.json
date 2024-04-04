@@ -125,5 +125,32 @@
       "desc": "During integration, developers establish connections between the SPA and backend APIs or services, allowing data exchange.",
       "photo": "/images/service-4.png"
     }
+  ],
+  "funCard": [
+
+ {
+      "id": 1,
+     "title": "Happy Clients",
+      "number": "1400",
+      "photo": "/images/heppy-customer.png"
+    },
+    {
+      "id": 2,
+     "title": "Working Hours",
+      "number": "7745",
+      "photo": "/images/hours.png"
+    },
+    {
+      "id": 3,
+     "title": "Awards Won",
+      "number": "397",
+      "photo": "/images/award.png"
+    },
+    {
+      "id": 4,
+     "title": "Coffee Consumed",
+      "number": "52600",
+      "photo": "/images/cofee.png"
+    }
   ]
 }
