@@ -152,5 +152,12 @@
       "number": "52600",
       "photo": "/images/cofee.png"
     }
+  ],
+  "resumeDownload": [
+    {
+      "id": 1,
+      "cv": "/download/Mykola Mud` - Front-End (Vue.js)  Engineer - CV.pdf"
+  
+    }
   ]
 }
