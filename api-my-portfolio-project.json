@@ -74,7 +74,7 @@
                 "/images/3y.png",
                 "/images/4y.png"
             ],
-            "description": "Redesigned, added new functionality, changed the look of the gallery, and developed new blocks.",
+            "description": "Redesigned, added new functionality, changed the look of the gallery.",
             "descriptionFull": "Each product page contains detailed descriptions, features, and high-quality images so that customers can make an informed purchase decision. A secure checkout process with Shopify API integration ensures that transactions are reliable. In addition, the store is optimized for search engines (SEO), which ensures its visibility to potential customers.",
             "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
             "link": "https://bellaverde.us/"
@@ -90,23 +90,7 @@
                 "/images/3u.png",
                 "/images/4u.png"
             ],
-            "description": "We created design, development, functionality, search, filters, shopping cart, upsells, marketing, and SEO.",
-            "descriptionFull": "Developed a modern online store based on Shopify, using advanced technologies to ensure a pleasant user experience and high sales. He used HTML, CSS, JavaScript, and Liquid to create a dynamic interface with clear navigation and easy search.",
-            "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
-            "link": "https://vense-store.myshopify.com/"
-        },
-        {
-            "id": 7,
-            "name": "Vensa E-Commerce Jewelry",
-            "category": "Vue SPA",
-            "image": "/images/1uuu.png",
-            "imageSet": [
-                "/images/1u.png",
-                "/images/2u.png",
-                "/images/3u.png",
-                "/images/4u.png"
-            ],
-            "description": "We created design, development, functionality, search, filters, shopping cart, upsells, marketing, and SEO.",
+            "description": "We created design, development, functionality, search, filters, shopping cart.",
             "descriptionFull": "Developed a modern online store based on Shopify, using advanced technologies to ensure a pleasant user experience and high sales. He used HTML, CSS, JavaScript, and Liquid to create a dynamic interface with clear navigation and easy search.",
             "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
             "link": "https://vense-store.myshopify.com/"
