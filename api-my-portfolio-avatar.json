@@ -159,5 +159,18 @@
       "cv": "/download/Mykola Mud` - Front-End (Vue.js)  Engineer - CV.pdf"
   
     }
+  ],
+  "portfolioCard": [
+{
+  "id": 1,
+  "name": "Airmazing E-Commerce Bubble House",
+  "category": "Shopify",
+  "image": "/images/1w.png",
+  "imageSet": ["/images/1.png", "/images/4.png", "/images/3.png"],
+  "description": "The design, structure, and development were completed in a week.",
+  "descriptionFull": "Developed using HTML, CSS, JS, Liquid, Shopify API, it has a user-friendly interface with clear navigation, a dynamic product catalog with filtering and sorting, detailed product pages with high-quality visuals and descriptions, a shopping cart, and a secure checkout process. The platform is also optimized for performance and SEO.",
+  "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
+  "link": "https://www.airmazing.us"
+}
   ]
 }
