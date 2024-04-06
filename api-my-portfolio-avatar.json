@@ -7,7 +7,10 @@
     }
   ],
   "switching-sound": [
-{"id": 1, "audio": "https://github.com/mudmykola/test-api/blob/b371e37e6a94a52b7d7086c16f580ed30dc2d9a0/audio/rclick.mp3"}
+    {
+      "id": 1,
+      "audio": "https://github.com/mudmykola/test-api/blob/b371e37e6a94a52b7d7086c16f580ed30dc2d9a0/audio/rclick.mp3"
+    }
   ],
   "clientImage": [
     {
@@ -44,53 +47,53 @@
   "testimonialCard": [
     {
       "id": 1,
-      "text":"He demonstrates in-depth knowledge of programming and is always ready to help with any technical issues.",
+      "text": "He demonstrates in-depth knowledge of programming and is always ready to help with any technical issues.",
       "author": "Emily Smith",
       "company": "TechSolutions Inc",
       "photo": "/images/user-reviews/1.jpg"
-  },
-  {
+    },
+    {
       "text": "He works efficiently on projects, always keeps to the schedule, and collaborates productively with his colleagues.",
       "author": "Michael Brown",
       "company": "CodeCrafters Ltd",
       "photo": "/images/user-reviews/2.jpg"
-  },
-  {
+    },
+    {
       "text": "He quickly understood our requirements and efficiently implemented them in high-quality software.",
       "author": "Emily Johnson",
       "company": "WebWizards LLC",
       "photo": "/images/user-reviews/3.jpg"
-  },
-  {
+    },
+    {
       "text": "This is a developer you can rely on. He always meets the deadlines and ensures high quality of his work meets.",
       "author": "David Wilson",
       "company": "Digital Dynamics Corp",
       "photo": "/images/user-reviews/4.jpg"
-  },
-  {
+    },
+    {
       "text": "Working with Mykola has been a very positive experience. He not only solves technical problems efficiently. ",
       "author": "Sarah Thompson",
       "company": "InnovateIT Solutions",
       "photo": "/images/user-reviews/5.jpg"
-  },
-  {
+    },
+    {
       "text": "He carefully studies the requirements and tasks of the project to ensure their successful implementation.",
       "author": "Jessica Davis",
       "company": "CyberGenius Technologies",
       "photo": "/images/user-reviews/6.jpg"
-  },
-  {
+    },
+    {
       "text": "He has extensive technical knowledge and excellent analytical skills that allow him to quickly find effective solutions.",
       "author": "Christopher Miller",
       "company": "ByteBuilders Group",
       "photo": "/images/user-reviews/7.jpg"
-  },
-  {
+    },
+    {
       "text": "He always goes the extra mile to ensure the project is completed successfully. Impressive level of efficiency and enthusiasm.",
       "author": "Amanda Taylor",
       "company": "SoftwareSphere Innovations",
       "photo": "/images/user-reviews/8.jpg"
-  }
+    }
   ],
   "aboutAvatar": [
     {
@@ -102,53 +105,51 @@
   "servicesCard": [
     {
       "id": 1,
-     "title": "Web site development",
+      "title": "Web site development",
       "desc": "Developing the client side of a web application, which is responsible for the visual interface and user experience. ",
       "photo": "/images/service-1.png"
     },
-
     {
       "id": 2,
-     "title": "SPA development",
+      "title": "SPA development",
       "desc": "SPA development is usually used to create modern interactive web applications that provide a fast and smooth user experience.",
       "photo": "/images/service-2.png"
     },
     {
       "id": 3,
-     "title": "Testing and optimization",
+      "title": "Testing and optimization",
       "desc": "This includes various types of testing such as unit testing, integration testing, end-to-end testing, and usability testing. ",
       "photo": "/images/service-3.png"
     },
     {
       "id": 4,
-     "title": "Integration with Backend",
+      "title": "Integration with Backend",
       "desc": "During integration, developers establish connections between the SPA and backend APIs or services, allowing data exchange.",
       "photo": "/images/service-4.png"
     }
   ],
   "funCard": [
-
- {
+    {
       "id": 1,
-     "title": "Happy Clients",
+      "title": "Happy Clients",
       "number": "1400",
       "photo": "/images/heppy-customer.png"
     },
     {
       "id": 2,
-     "title": "Working Hours",
+      "title": "Working Hours",
       "number": "7745",
       "photo": "/images/hours.png"
     },
     {
       "id": 3,
-     "title": "Awards Won",
+      "title": "Awards Won",
       "number": "397",
       "photo": "/images/award.png"
     },
     {
       "id": 4,
-     "title": "Coffee Consumed",
+      "title": "Coffee Consumed",
       "number": "52600",
       "photo": "/images/cofee.png"
     }
@@ -157,20 +158,23 @@
     {
       "id": 1,
       "cv": "/download/Mykola Mud` - Front-End (Vue.js)  Engineer - CV.pdf"
-  
     }
   ],
   "portfolioCard": [
-{
-  "id": 1,
-  "name": "Airmazing E-Commerce Bubble House",
-  "category": "Shopify",
-  "image": "/images/1w.png",
-  "imageSet": ["/images/1.png", "/images/4.png", "/images/3.png"],
-  "description": "The design, structure, and development were completed in a week.",
-  "descriptionFull": "Developed using HTML, CSS, JS, Liquid, Shopify API, it has a user-friendly interface with clear navigation, a dynamic product catalog with filtering and sorting, detailed product pages with high-quality visuals and descriptions, a shopping cart, and a secure checkout process. The platform is also optimized for performance and SEO.",
-  "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
-  "link": "https://www.airmazing.us"
-}
+    {
+      "id": 1,
+      "name": "Airmazing E-Commerce Bubble House",
+      "category": "Shopify",
+      "image": "/images/1w.png",
+      "imageSet": [
+        "/images/1.png",
+        "/images/4.png",
+        "/images/3.png"
+      ],
+      "description": "The design, structure, and development were completed in a week.",
+      "descriptionFull": "Developed using HTML, CSS, JS, Liquid, Shopify API, it has a user-friendly interface with clear navigation, a dynamic product catalog with filtering and sorting, detailed product pages with high-quality visuals and descriptions, a shopping cart, and a secure checkout process. The platform is also optimized for performance and SEO.",
+      "technology": "HTML, CSS, JS, Liquid, Shopify Cli",
+      "link": "https://www.airmazing.us"
+    }
   ]
 }
