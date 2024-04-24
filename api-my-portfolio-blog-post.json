@@ -3,7 +3,7 @@
         {
             " id": 1,
             "title": "10 CSS life hacks that will make your websites better",
-            "image": "/images/post/8.webp",
+            "image": "/images/post/9.jpg",
             "excerpt": "Web development can be both challenging and exciting. ",
             "content": "Web development can be both challenging and exciting. Today we will share with you 10 useful CSS life hacks that will help you improve your websites. Use them for convenience and efficiency in your work!Flexbox for element arrangement: Use Flexbox to create flexible and responsive layouts without the need for complex CSS rules.Grid for creating grids: Use Grid to work with grids quickly and easily, allowing you to create complex layouts with ease.Hide elements with display: none: To hide an element on a page, set its style to display: none. This is useful for excluding content on mobile devices or during animations.Change the color of links: Set the color style for <a> elements to change the color of links on your website.Use opacity and visibility properties: Instead of setting display: none to hide elements, use opacity: 0 or visibility: hidden. This allows you to leave space on the page that can be occupied or animated.Compound selectors: Use compound selectors (e.g., .header h1) to select specific elements on a page.Transitions and animations: Add transitions and animations to your website to create seamless and engaging effects.Variable border width: Use the border-width property to create variable width borders that add depth and interest to your design.",
             "date": "2024-04-20",
@@ -12,7 +12,7 @@
         {
             " id": 2,
             "title": "Mastering the v-bind directive in Vue.js",
-            "image": "/images/post/7.jpeg",
+            "image": "/images/post/10.jpg",
             "excerpt": "There are many frameworks and libraries in the world of web development",
             "content": "There are many frameworks and libraries in the world of web development, but one of the most popular and powerful is Vue.js. One of the key features of Vue.js is its system of directives that allow you to easily and efficiently manipulate DOM elements and their attributes. One of the most useful directives is v-bind.v-bind is a Vue.js directive that allows you to dynamically bind HTML attributes to data in your Vue.js application. It can be used to dynamically change the values of attributes, styles, classes, and other element properties.Here are some examples of how to use the v-bind directive:Dynamic attributes: Use v-bind to dynamically change the values of HTML attributes such as href, src, class, style, and others.Component parameters: Use v-bind to pass parameters to custom Vue.js components.Dynamic styles and classes: Change the styles and classes of elements on a page based on data in your application with v-bind.Manage element properties: Manipulate any HTML element property with v-bind, including disabled, readonly, validated, and more.Using v-bind allows you to create dynamic and interactive web pages that respond to changes in the data of your Vue.js application. This makes Vue.js one of the most popular choices for modern web development.Thanks to the v-bind directive, you can build powerful and efficient web applications with minimal effort. Master this skill, and your Vue.js projects will impress users.",
             "date": "2024-04-20",
