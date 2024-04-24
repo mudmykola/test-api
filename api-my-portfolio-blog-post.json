@@ -38,12 +38,12 @@
         },
         {
             " id": 5,
-            "title": "Comparison of Vue.js and React: Which Framework to Choose for Your Project?",
-            "image": "/images/post/4.jpeg",
-            "excerpt": "Vue.js and React are two of the most popular frameworks for developing",
-            "content": "Vue.js and React are two of the most popular frameworks for developing web applications in today's web development world. Both of them have their own advantages and features, and it can be difficult to choose between them. In this article, we'll take a look at the main differences between Vue.js and React and help you make the right choice for your project.Syntax and Code Style: Vue.js is known for its simplicity and ease of learning. It has a very clear syntax and logical structure, which makes it an ideal choice for beginners. On the other hand, React uses JSX, an extended JavaScript syntax that allows you to write HTML-like code directly in a JavaScript file.Reactivity and Performance: Vue.js uses two-way data binding by default, which makes it very convenient for working with application state. React, on the other hand, uses one-way data binding, which can be more predictable in large projects.Ecosystem and Community: React has a very large and active developer community, as well as a wide ecosystem of third-party libraries and tools. Vue.js also has a fast-growing community and ecosystem, but it may be smaller compared to React.Performance and Speed: Both frameworks are known for their performance and speed, but Vue.js is often considered lighter and faster to implement. This can be an important factor for projects with a large number of components and complex interfaces.",
-            "date": "2024-04-21",
-            "category": "TECHNOLOGY"
+            "title": "Becoming a Hacker: Must Read Security & Cyber Crime Books",
+            "image": "/images/post/5.webp",
+            "excerpt": "This book is at the top of the list because… well, the human element is the weakest link in any attack.",
+            "content": "This book is at the top of the list because… well, the human element is the weakest link in any attack.Think about it.How might your company get hacked? A security guard sitting at the front door, hired to keep unauthorized people out of the building, might let a “pest control guy” right in and even grant them access to the server room, as they’ve “been hired to get rid of the roaches”. The security guard really, really dislikes roaches, and doesn’t want to see any, nor does he want to have the chance of hitching some of them back to his home.Likewise, the receptionist may receive an email which looks to be from the CEO. It tells her to order a gift card in the amount of $500, and then send the card details over to him. Well, that wasn’t the CEO, it was a carefully crafted email written by a social engineer.That’s the basic idea of social engineering, it plays on people’s emotions and biases. If we arm ourselves with the knowledge of how they work, we’d be better able to guard ourselves, as well as the companies we work for.The author of this book, Christopher Hadnagy, also has some very engaging videos on YouTube explaining some of the concepts in the book. Check them out: 7 Jedi Mind Tricks: Influence Your Target without a Word, The Science Behind Human Hacking.The book is just as engaging as his talks.",
+            "date": "2024-04-24",
+            "category": "JS"
         }
     ]
 }
