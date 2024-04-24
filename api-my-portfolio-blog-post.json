@@ -3,7 +3,7 @@
         {
             " id": 1,
             "title": "10 CSS life hacks that will make your websites better",
-            "image": "/images/post/introduction-CSS-cover.webp",
+            "image": "/images/post/8.webp",
             "excerpt": "Web development can be both challenging and exciting. ",
             "content": "Web development can be both challenging and exciting. Today we will share with you 10 useful CSS life hacks that will help you improve your websites. Use them for convenience and efficiency in your work!Flexbox for element arrangement: Use Flexbox to create flexible and responsive layouts without the need for complex CSS rules.Grid for creating grids: Use Grid to work with grids quickly and easily, allowing you to create complex layouts with ease.Hide elements with display: none: To hide an element on a page, set its style to display: none. This is useful for excluding content on mobile devices or during animations.Change the color of links: Set the color style for <a> elements to change the color of links on your website.Use opacity and visibility properties: Instead of setting display: none to hide elements, use opacity: 0 or visibility: hidden. This allows you to leave space on the page that can be occupied or animated.Compound selectors: Use compound selectors (e.g., .header h1) to select specific elements on a page.Transitions and animations: Add transitions and animations to your website to create seamless and engaging effects.Variable border width: Use the border-width property to create variable width borders that add depth and interest to your design.",
             "date": "2024-04-20",
