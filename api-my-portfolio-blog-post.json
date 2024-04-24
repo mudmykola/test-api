@@ -29,12 +29,12 @@
         },
         {
             " id": 4,
-            "title": "Comparison of Vue.js and React: Which Framework to Choose for Your Project?",
-            "image": "/images/post/4.jpeg",
-            "excerpt": "Vue.js and React are two of the most popular frameworks for developing",
-            "content": "Vue.js and React are two of the most popular frameworks for developing web applications in today's web development world. Both of them have their own advantages and features, and it can be difficult to choose between them. In this article, we'll take a look at the main differences between Vue.js and React and help you make the right choice for your project.Syntax and Code Style: Vue.js is known for its simplicity and ease of learning. It has a very clear syntax and logical structure, which makes it an ideal choice for beginners. On the other hand, React uses JSX, an extended JavaScript syntax that allows you to write HTML-like code directly in a JavaScript file.Reactivity and Performance: Vue.js uses two-way data binding by default, which makes it very convenient for working with application state. React, on the other hand, uses one-way data binding, which can be more predictable in large projects.Ecosystem and Community: React has a very large and active developer community, as well as a wide ecosystem of third-party libraries and tools. Vue.js also has a fast-growing community and ecosystem, but it may be smaller compared to React.Performance and Speed: Both frameworks are known for their performance and speed, but Vue.js is often considered lighter and faster to implement. This can be an important factor for projects with a large number of components and complex interfaces.",
+            "title": "JavaScript’s Secret Weapon: Supercharge Your Web Apps with Web Workers",
+            "image": "/images/post/6.webp",
+            "excerpt": "During a recent interview, I found myself confronted with a question.",
+            "content": "During a recent interview, I found myself confronted with a question: How can we implement multi-threading in JavaScript? To my dismay, I was at a loss for an answer. JavaScript, by its nature, operates on a single thread. However, my curiosity led me to discover an intriguing solution: Web Workers.Web Workers represent a feature within JavaScript that unlocks the potential for concurrent script execution in web applications. They operate in the background, distinct from the main execution thread of a web page, thereby preventing UI blocking and enhancing responsiveness.This revelation was particularly enlightening for someone like me, previously unaware of this capability.Let’s explore a practical example to grasp the functionality and utility of Web Workers.To experiment with the provided code, it's essential to run a server; otherwise, the code won’t execute. The simplest approach is to globally install the http-server package via npm.",
             "date": "2024-04-21",
-            "category": "TECHNOLOGY"
+            "category": "JS"
         },
         {
             " id": 5,
