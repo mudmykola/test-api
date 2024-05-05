@@ -61,7 +61,7 @@
             "excerpt": "We're thrilled to announce our collaboration with Netlify ",
             "content": "We're thrilled to announce our collaboration with Netlify for the upcoming DEV challenge. This challenge is dedicated to crafting dynamic and high-performance digital experiences, regardless of the framework you choose!From now until May 12th, the Netlify Dynamic Site Challenge invites you to showcase your expertise, compete for cash prizes, and explore Netlify's cutting-edge Agnostic Platform Primitives. With these tools, you can unlock unparalleled functionalities across various frameworks like Next.js, Astro, Nuxt, Remix, and more.This challenge is a unique opportunity to contribute to the advancement of the open web and open-source community while honing your skills in emerging frameworks. We can't wait to witness the innovative projects you'll create.We encourage you to take on at least one of our three exciting prompts:Visual Feast:Create a dynamic image gallery leveraging the power of the Netlify Image CDN. Your project should harness Netlify's on-demand image transformation features, showcasing the ability to fetch images, apply transformations such as resizing and format optimization, and present the optimized images in an elegant gallery layout.For those ready to dive right in, here's the submission template. Remember to review all challenge rules on the official challenge page before submitting.Let's make this challenge a memorable journey of creativity and exploration!",
             "date": "2024-05-05",
-            "category": "Shopify"
+            "category": "JS"
         }
     ]
 }
