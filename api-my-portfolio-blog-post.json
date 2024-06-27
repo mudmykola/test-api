@@ -62,6 +62,15 @@
             "content": "We're thrilled to announce our collaboration with Netlify for the upcoming DEV challenge. This challenge is dedicated to crafting dynamic and high-performance digital experiences, regardless of the framework you choose!From now until May 12th, the Netlify Dynamic Site Challenge invites you to showcase your expertise, compete for cash prizes, and explore Netlify's cutting-edge Agnostic Platform Primitives. With these tools, you can unlock unparalleled functionalities across various frameworks like Next.js, Astro, Nuxt, Remix, and more.This challenge is a unique opportunity to contribute to the advancement of the open web and open-source community while honing your skills in emerging frameworks. We can't wait to witness the innovative projects you'll create.We encourage you to take on at least one of our three exciting prompts:Visual Feast:Create a dynamic image gallery leveraging the power of the Netlify Image CDN. Your project should harness Netlify's on-demand image transformation features, showcasing the ability to fetch images, apply transformations such as resizing and format optimization, and present the optimized images in an elegant gallery layout.For those ready to dive right in, here's the submission template. Remember to review all challenge rules on the official challenge page before submitting.Let's make this challenge a memorable journey of creativity and exploration!",
             "date": "2024-05-05",
             "category": "JS"
+        },
+        {
+            " id": 8,
+            "title": "Improving the Online Store: New Theme Block Settings & Features",
+            "image": "/images/post/12.avif",
+            "excerpt": "We're excited to announce the latest updates for your online store theme.",
+            "content": "We're excited to announce the latest updates for your online store theme, providing more control and flexibility for a better shopping experience. Key features include a custom countdown timer to create urgency, a dynamic announcement bar for key messages, flexible size grid metafields for customizable product information, enhanced mobile experience with optimized scrolling, and improved styling options for a polished look. Update your theme to the latest version to access these features and customize them from your Shopify admin panel. These updates aim to make your store more attractive and functional, enhancing the shopping experience for your customers. Explore the new features today and elevate your store!",
+            "date": "2024-06-27",
+            "category": "Shopify"
         }
     ]
 }
