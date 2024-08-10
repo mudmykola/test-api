@@ -71,6 +71,15 @@
             "content": "We're excited to announce the latest updates for your online store theme, providing more control and flexibility for a better shopping experience. Key features include a custom countdown timer to create urgency, a dynamic announcement bar for key messages, flexible size grid metafields for customizable product information, enhanced mobile experience with optimized scrolling, and improved styling options for a polished look. Update your theme to the latest version to access these features and customize them from your Shopify admin panel. These updates aim to make your store more attractive and functional, enhancing the shopping experience for your customers. Explore the new features today and elevate your store!",
             "date": "2024-06-27",
             "category": "Shopify"
+        },
+        {
+            " id": 9,
+            "title": "Mastering Container Units in CSS: Challenges, Solutions, and Best Practices",
+            "image": "/images/post/14.jpeg",
+            "excerpt": "I experimented with using container units for every aspect of a design...",
+            "content": "I experimented with using container units for every aspect of a design, expecting everything to scale seamlessly. Container units, which size elements based on their containers, seemed like a perfect solution. However, the reality was more complicated.<strong>Challenges with Container Units</strong>\n\nOne key issue is the difficulty in styling the container itself with container units. For example, applying consistent styles like border-radius can lead to unexpected results because different elements reference different containers.\n<strong>Avoid Direct Container Styling</strong>\n\nTo avoid these pitfalls, it's often better not to apply size-based styles directly on the container. Instead, consider adding a wrapper element to maintain consistency in your design.\n<strong>Text Sizing Issues</strong>\n\nUsing container units for text can cause it to become too large or too small, especially with varying card sizes. To ensure better control, mix container units with other relative sizing techniques, allowing for minimum and maximum size limits.\n<strong>Layout Shifts</strong>\n\nContainer units are helpful for adjusting layouts at different breakpoints, but they can be tricky when switching between horizontal and vertical layouts. In these cases, using a combination of units often yields better results.\n<strong>Conclusion</strong>\n\nWhile container units offer strong scalability and flexibility, they aren’t a one-size-fits-all solution. Use them selectively, and combine them with other units to achieve more consistent and reliable designs.",
+            "date": "2024-08-10",
+            "category": "CSS"
         }
     ]
 }
