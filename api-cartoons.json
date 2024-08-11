@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "ЛЕДІ БАГ І СУПЕР-КІТ",
+        "posterUrl": "poster/l-1.webp",
+        "description": "Історія починається зі звичайної школи та двох учнів – Марінетт, та хлопця, у якого вона закохана – Адріана. На вигляд вони цілком звичайні, та вночі за допомогою спеціальних чарівних амулетів перетворюються на справжніх супергероїв: Леді Баг та Супер-Кота. При цьому, вони не підозрюють, хто саме чаїться за маскою кожного з них. Разом вони борються проти Бражника, який перетворює містян на своїх прислужників. Чи дізнаються вони, що, насправді, знайомі не тільки у нічному житті, але і як звичайні однокласники? Чи вдасться їм подолати спільного ворога?",
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "title": "Леді Баг і Супер-Кіт",
+                        "videoUrl": "video/l-1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "title": "Леді Баг і Супер-Кіт",
+                        "videoUrl": "video/l-1.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 2,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "title": "New Adventures",
+                        "videoUrl": "path/to/episode1.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Another Cartoon",
+        "posterUrl": "path/to/poster2.jpg",
+        "description": "Another fun series.",
+        "seasons": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "title": "Episode 1",
+                        "videoUrl": "path/to/episode1.mp4"
+                    }
+                ]
+            }
+        ]
+    }
+]
