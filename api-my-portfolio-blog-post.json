@@ -80,6 +80,15 @@
             "content": "I experimented with using container units for every aspect of a design, expecting everything to scale seamlessly. Container units, which size elements based on their containers, seemed like a perfect solution. However, the reality was more complicated.Challenges with Container Units\\n\\nOne key issue is the difficulty in styling the container itself with container units. For example, applying consistent styles like border-radius can lead to unexpected results because different elements reference different containers.\\nAvoid Direct Container Styling\\n\\nTo avoid these pitfalls, it's often better not to apply size-based styles directly on the container. Instead, consider adding a wrapper element to maintain consistency in your design.\\nText Sizing Issues\\n\\nUsing container units for text can cause it to become too large or too small, especially with varying card sizes. To ensure better control, mix container units with other relative sizing techniques, allowing for minimum and maximum size limits.\\nLayout Shifts\\n\\nContainer units are helpful for adjusting layouts at different breakpoints, but they can be tricky when switching between horizontal and vertical layouts. In these cases, using a combination of units often yields better results.\\nConclusion\\n\\nWhile container units offer strong scalability and flexibility, they aren’t a one-size-fits-all solution. Use them selectively, and combine them with other units to achieve more consistent and reliable designs.",
             "date": "2024-08-10",
             "category": "CSS"
+        },
+        {
+            " id": 10,
+            "title": "Netlify Aims To Simplify the Frontend With Cloud Primitives",
+            "image": "/images/post/15.jpg",
+            "excerpt": "Matt Biilmann, CEO of Netlify, highlighted at the InfoBip Shift conference in Miami that...",
+            "content": "Matt Biilmann, CEO of Netlify, highlighted at the InfoBip Shift conference in Miami that web development complexity is returning to the frontend, similar to what he observed in his original JamStack talk in 2016. Despite periods of reduced complexity, newer approaches are reintroducing it. Biilmann points to frameworks like Astro and Remix as solutions to simplify frontend development.Astro focuses on simplicity by using pre-generated static HTML, which suits content-driven sites with specific JavaScript interactions. In contrast, Remix emphasizes dynamic rendering with edge caching, integrating closely with CDNs like Netlify. Both frameworks offer different paths to reducing complexity while maintaining scalability. Netlify has partnered with Astro, committing $12,500 monthly to support its open-source community and development.",
+            "date": "2024-08-25",
+            "category": "JS"
         }
     ]
 }
